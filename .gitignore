@@ -7,6 +7,9 @@
 *.cmxa
 *.o
 *.so
+.merlin
+config/.merlin
+_build
 
 test/minigzip
 test/minizip
