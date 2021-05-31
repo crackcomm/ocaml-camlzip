@@ -15,10 +15,10 @@
 (package
  (name zip)
  (synopsis
-   "Provides easy access to compressed files in ZIP, GZIP and JAR format")
+  "Provides easy access to compressed files in ZIP, GZIP and JAR format")
  (description "Reading and writing zip and gzip files from OCaml.")
  (depends
-  dune.configurator
+  dune-configurator
   dune
   stdlib-shims
   conf-zlib
