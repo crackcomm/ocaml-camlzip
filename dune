@@ -1,5 +1,5 @@
 (library
- (public_name zip)
+ (public_name camlzip)
  (synopsis "OCaml ZIP interface")
  (modules gzip zip zlib)
  (libraries stdlib-shims)
